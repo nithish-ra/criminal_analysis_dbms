@@ -1,0 +1,6 @@
+tkinter
+os
+pymongo
+reportlab 
+fpdf
+tkcalender
