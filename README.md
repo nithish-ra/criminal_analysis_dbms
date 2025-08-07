@@ -1,5 +1,6 @@
-# Once you download the zip file and have completed the extraction process
-# you can run the script by opening a terminal or command prompt in the current folder "Project" folder
+# Criminal Analysis System and Management
+### Once you download the zip file and have completed the extraction process
+### you can run the script by opening a terminal or command prompt in the current folder "Project" folder
 
 ## Step - 1:
 Enable the Virtual Environment by running the below command:
